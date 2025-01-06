@@ -47,4 +47,4 @@ Make sure you have Python installed on your system. You can download it from [py
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/email-spam-detection.git
+   git clone https://github.com/sathvikeppakayala/email-spam-detection-project.git
